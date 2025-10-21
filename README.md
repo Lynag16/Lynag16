@@ -17,7 +17,7 @@ I love designing **AI systems, generative AI tools, and interactive applications
 
 ## 🌟 Skills & Tools
 
-**Programming:** Python | C/C++ | Java | R  
+**Programming:** Python | Java | R  
 **AI / ML / GenAI:** TensorFlow | PyTorch | XGBoost | scikit-learn | NLP | LLMs | CNN | Transformers | RAG | LangGraph | Agents IA  
 **Data & MLOps:** Pandas | NumPy | Matplotlib | Plotly | MLflow | FastAPI | Docker | Kubernetes | GitHub Actions | Streamlit  
 **Cloud & Databases:** Azure | GCP | Redis | PostgreSQL | MongoDB | SQL | SQLite  
