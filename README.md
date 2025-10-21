@@ -35,8 +35,3 @@ I love designing **AI systems, generative AI tools, and interactive applications
 ## 📫 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/agouazilynda/) | [Email](mailto:agouazilynda20@gmail.com)  
 
----
-
-## 📊 GitHub Stats
-![Lynda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lynag16&show_icons=true&theme=dracula)
-
